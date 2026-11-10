@@ -182,3 +182,8 @@ GitHub: [nravilala-eng](https://github.com/nravilala-eng)
 If you find this project useful, feel free to explore the repository and its analysis.
 
 
+## Live Dashboard
+
+Explore the deployed AI E-Commerce Analytics Dashboard:
+
+[Open Live Dashboard](https://aiecommerceanalytics-dninw57x7apimwy9mqfq7z.streamlit.app/)
