@@ -39,7 +39,7 @@ It includes data exploration, sales analysis, customer segmentation using K-Mean
 - Customer location analysis
 
 ### 2. Sales Analysis
-- Total revenue analysis
+- Revenue and payment analysis
 - Payment method analysis
 - Top-performing states
 - Monthly sales trends
@@ -57,6 +57,7 @@ It includes data exploration, sales analysis, customer segmentation using K-Mean
 - On-time delivery analysis
 
 ### 5. Interactive Dashboard
+
 The Streamlit dashboard provides:
 - Business overview and KPI cards
 - Sales analysis
@@ -68,7 +69,6 @@ The Streamlit dashboard provides:
 
 | Metric | Result |
 |---|---:|
-| Total Revenue | R$ 15,422,461.77 |
 | Average Delivery Time | 12.56 days |
 | Late Deliveries | 7,826 |
 | On-time or Early Deliveries | 88,644 |
@@ -76,6 +76,12 @@ The Streamlit dashboard provides:
 | Highest Revenue Month | November 2017 |
 
 *Results are based on the analyzed Olist dataset.*
+
+## Live Dashboard
+
+Explore the deployed application:
+
+[AI E-Commerce Analytics Dashboard](https://aiecommerceanalytics-dninw57x7apimwy9mqfq7z.streamlit.app/)
 
 ## Project Structure
 
@@ -159,7 +165,6 @@ Dataset source: [Brazilian E-Commerce Public Dataset by Olist – Kaggle](https:
 ## Future Improvements
 
 - Add AI-generated business recommendations.
-- Deploy the dashboard using Streamlit Community Cloud.
 - Improve customer segmentation and model evaluation.
 - Add automated data refresh and reporting.
 - Develop advanced sales forecasting.
